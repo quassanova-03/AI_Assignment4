@@ -101,6 +101,7 @@ AI_Assignment4/
 ```
 - Language : Python
 
+## How to run the code
 1. Navigate to the directory
    ```
    cd AI_Assignment4/CSP_Australia
